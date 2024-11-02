@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning
 - 👯 I’m looking to collaborate on any flutter apps specially on apps with maps and locoation
 - 🤔 I’m looking for help with a dashboard for the C4CEM
-- 😄 Pronoun: He
+- 😄 Pronoun: He/Him
 
 <!--
 - 💬 Ask me about ...
