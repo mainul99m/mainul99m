@@ -1,35 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mainul99m/mainul99m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Kazi Mainul Islam
 
-Here are some ideas to get you started:
--->
+### Geospatial Software Engineer · Full-stack Research Software Engineer
 
-- 🔭 I’m currently working on a citizen science based ocean monitoring platform called C4CEM (Citizen for Coastal Ecosystem Monitoring)
-- 🌱 I’m currently learning
-- 👯 I’m looking to collaborate on any flutter apps specially on apps with maps and locoation
-- 🤔 I’m looking for help with a dashboard for the C4CEM
-- 😄 Pronoun: He/Him
+I build offline-first mobile, web, and geospatial systems for environmental monitoring and scientific research.
 
-<!--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
+Berlin, Germany · Open to geospatial and research software roles in Germany
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a192f?style=for-the-badge)](https://mainul.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kazimainul/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=fG91tKgAAAAJ&hl=en)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-3631-360X)
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mainul99m) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mainul99m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kazimainul) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mainul99m) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@kazimainul) 
-
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mainul99m&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mainul99m&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mainul99m&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mainul99m&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I am a software engineer and geospatial researcher based in Berlin. I am currently pursuing an **M.Sc. in Geodesy and Geoinformation Science** at **Technische Universität Berlin**, following a **B.Sc. and M.Sc. in Geography and Environment** from Shahjalal University of Science and Technology in Bangladesh.
+
+At TU Berlin's Chair of Entrepreneurship and Innovation Management, I work as a Student Assistant and the sole developer responsible for **[TripleLens](https://triplelens.io)**. I took over an externally developed codebase, stabilized the inherited product, and now maintain its application, backend, testing, and deployment workflows.
+
+From 2020 to 2024, I was Co-Founder and CTO of Olik, where I developed software for environmental research and field data collection. My work sits where geospatial data, offline mobile systems, web applications, and environmental science meet.
+
+## Selected work
+
+### [TripleLens](https://triplelens.io)
+
+**Student Assistant and sole developer · Technische Universität Berlin · 2025–present**
+
+A configurable assessment platform for entrepreneurship and incubation programs. TripleLens compares evaluations from founders, coaches, and external experts to reveal differences in perception and support structured coaching discussions.
+
+- Took ownership of an inherited codebase and resolved more than 20 issues involving authentication and row-level security, assessment calculations, application UI, and PDF exports.
+- Reworked the survey experience with explicit-selection controls, preventing untouched slider defaults from being submitted as intentional answers.
+- Implemented researcher-defined weighting rules and a consistent scoring scale across assessment results, with around 20 Vitest tests covering survey, API/data, and permission logic.
+- Supports approximately 15–20 active pilot users. The TypeScript/Next.js frontend runs on Vercel, while a self-hosted GitLab Runner builds and deploys prebuilt artifacts against a self-hosted Supabase backend.
+
+**Stack:** TypeScript, Next.js, Supabase, PostgreSQL, Vitest, GitLab CI/CD, Vercel, Docker
+
+### [Citizen for Coastal Ecosystem Monitoring — C4CEM](https://www.c4cem.org/)
+
+**Sole software developer · 2020–2024 · Operational**
+
+An offline-first citizen-science system for collecting georeferenced observations on fisheries, environmental conditions, plankton, plastic pollution, and other coastal resources in Bangladesh.
+
+- Designed and implemented the Android application, research dashboard, backend, offline-data workflow, and public information site.
+- Supports more than 250 citizen scientists and over 10,000 submitted datasets from coastal communities in Chattogram, Cox's Bazar, Barguna, and Kuakata.
+- Built offline observation capture with SQLite, OpenStreetMap, GeoJSON layers, GPS data, and cached map tiles; records and photographs synchronize when connectivity returns.
+- Developed Bengali and English interfaces, a Flutter dashboard for researchers, and a Firebase platform using Authentication, Firestore, Storage, Cloud Functions, Crashlytics, and Hosting.
+
+**Stack:** Dart, Flutter, SQLite, Firebase, Flutter Map, OpenStreetMap, GeoJSON, WordPress
+
+### SAROB — Bengal Elasmo Lab
+
+**Sole software developer · University of Dhaka research collaboration · 2024–present · Pre-release field testing**
+
+A field-data system for research on sharks, rays, and guitarfish in Bangladesh. It is designed to replace paper collection followed by manual Excel transcription with structured digital capture, review, and preparation.
+
+- Built a Flutter mobile application for recording species data, biological measurements, GPS coordinates, and photographs in locations with unreliable connectivity.
+- Implemented an SQLite-backed offline workflow that retries failed synchronization and removes local images only after the remote upload and database record succeed.
+- Designed role-based workflows for administrators, laboratory assistants, researchers, and data collectors, replacing paper-to-Excel re-entry with structured review and preparation.
+- Built the Supabase backend and am replacing the earlier Flutter dashboard with a Next.js interface. The mobile application is being field-tested against a hosted test backend; the new dashboard remains in pre-release testing.
+
+**Stack:** Dart, Flutter, SQLite, TypeScript, Next.js, Supabase, PostgreSQL
+
+*The source code is private and institution-owned.*
+
+### [Lunar VR](https://2018.spaceappschallenge.org/challenges/universe-beauty-and-wonder/virtual-space-exploration/teams/olik/)
+
+**UI and interaction developer · Five-member team · 2018**
+
+An educational Google Cardboard experience that lets users explore the Apollo 11 landing site, view a lunar eclipse from the Moon, and orbit the Moon with the Lunar Reconnaissance Orbiter.
+
+- Designed the VR interface and implemented C# scene navigation across the three lunar experiences.
+- Created the text-to-speech guided narration used by the in-app assistant.
+- Worked with NASA 3D models, lunar imagery, and Lunar Reconnaissance Orbiter resources in Unity. The project received the **Global Winner — Best Use of Data** award at the 2018 NASA International Space Apps Challenge.
+
+[Award record](https://2018.spaceappschallenge.org/awards/global-finalists/) · [Source code](https://github.com/asmahdi/lunarvr)
+
+**Stack:** Unity, C#, Google Cardboard SDK, Blender, NASA open data
+
+## Additional geospatial work
+
+- **[CesiumJS Weather App](https://github.com/mainul99m/CesiumJS-Weather-App):** A three-person web project combining Google Photorealistic 3D Tiles, camera navigation, and Weatherbit data. Live weather conditions trigger Cesium particle effects for rain and snow.
+- **Inundation modelling — Meghna Estuarine Basin:** Developed a Python workflow that combined elevation data with observations from the Bangladesh Water Development Board, applied linear interpolation, and generated `.xyz` bathymetry inputs for Delft3D.
+
+## Research
+
+**Selected publication**
+
+Sarker, S., Krug, L. A., **Islam, K. M.**, et al. (2024). *An integrated coastal ecosystem monitoring strategy: Pilot case in Naf-Saint Martin Peninsula, Bangladesh.* **Science of The Total Environment, 913**, 169718. [https://doi.org/10.1016/j.scitotenv.2023.169718](https://doi.org/10.1016/j.scitotenv.2023.169718)
+
+For this study, I developed the C4CEM software system and wrote Section 2.2 describing the mobile application. My complete publication record is available on [Google Scholar](https://scholar.google.com/citations?user=fG91tKgAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0002-3631-360X).
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, Dart, Python |
+| Application development | Next.js, Flutter |
+| Backend and data | Supabase, PostgreSQL |
+| Geospatial | QGIS |
+
+Project-specific experience also includes Firebase, SQLite, CesiumJS, GeoJSON, OpenStreetMap, Docker, GitLab CI/CD, Vercel, and Vitest.
+
+## Github Stats
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mainul99m&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
